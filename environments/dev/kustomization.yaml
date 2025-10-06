@@ -6,3 +6,6 @@ images:
 - digest: sha256:f3281bd01a77e9b89cc6494b606658ad0f64851ed0fb83264185247da4d987de
   name: quay.io/ericbos1/dotnetcore
   newName: quay.io/ericbos1/dotnetcore
+- digest: sha256:0fadee516e6bb1602ba0d38d04092fd5d3caab8a1b350494ebe932f98a6335f7
+  name: quay.io/nick-draper/dotnetcore
+  newName: quay.io/nick-draper/dotnetcore
